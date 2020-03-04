@@ -15,7 +15,7 @@
         <li><a href="https://www.yahoo.com">Yahoo &#174;</a></li>
     </ul>
     <p>
-    <img src="https://www.w3schools.com/images/picture.jpg" align="right" width="400" height="500"/>Passport Photos
+    <img src="pp.jpg" align="right" width="400" height="500"/>Passport Photos
     You must provide one photo with your passport application.
     
     All our photo policies apply to both adults and children under age 16. We have a few exceptions to our photo policies for infants.
