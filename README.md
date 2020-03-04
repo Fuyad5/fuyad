@@ -64,13 +64,6 @@ WWF aims to "stop the degradation of the planet's natural environment and to bui
 
 WWF has received criticism for its alleged corporate ties.[11][12] It has also been accused of supporting paramilitary groups tasked with stopping poaching who are responsible for numerous human rights abuses.[13][unreliable source?]
     </p>
-    <video width="400px" controls>
-        <source src="The_Chainsmokers_ft._Selena_Gomez_-_Hollow_(Official_Video).mp4" type="video/mp4">
-    </video>
-    <audio controls>
-        <source src="Dil_Diyan_Gallan_Song___Tiger_Zinda_Hai___Salman_Khan___Katrina_Kaif___Atif_Asla.mp3">
-    </audio>
-    <iframe width="420" height="315" src="https://www.youtube.com/watch?v=05DrDxjMEbU&list=RDfRNkQH4DVg8&index=2"></iframe>
 </body>
 <style>
   
