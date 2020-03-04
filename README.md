@@ -64,6 +64,7 @@ WWF aims to "stop the degradation of the planet's natural environment and to bui
 
 WWF has received criticism for its alleged corporate ties.[11][12] It has also been accused of supporting paramilitary groups tasked with stopping poaching who are responsible for numerous human rights abuses.[13][unreliable source?]
     </p>
+    <a href="web2.html">Next</a>
 </body>
 <style>
   
