@@ -1,5 +1,5 @@
-
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en-BD">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +14,7 @@
         <li><a href="https://www.fuyadan.wordpress.com">Fuyad 	&#169;</a></li>
         <li><a href="https://www.yahoo.com">Yahoo &#174;</a></li>
     </ul>
+    
     <p>
     <img src="pp.jpg" align="right" width="400" height="500"/>Passport Photos
     You must provide one photo with your passport application.
@@ -51,10 +52,10 @@
     If you wear a hat or head covering for medical purposes, submit a signed doctor's statement verifying the hat or head covering in your photo is used daily for medical purposes.
     Your full face must be visible and your hat or head covering cannot obscure your hairline or cast shadows on your face.
     You cannot wear headphones or wireless hands-free devices.
-    You can wear jewelry and keep on your facial piercings as long as they do not hide your face. Permanent tattoos are acceptable for passport purposes as well.</p>
+    You can wear jewelry and keep on your facial piercings as long as they do not hide your face. Permanent tattoos are acceptable for passport purposes as well.</b>
     <hr>
     <h1></h1>World Wide Fund for Nature</h1>
-    <p>
+    
         <img src="panda.png" width="400" height="500" align="left"/>
         The World Wide Fund for Nature (WWF) is an international non-governmental organization founded in 1961, working in the field of wilderness preservation, and the reduction of human impact on the environment.[5] It was formerly named the World Wildlife Fund, which remains its official name in Canada and the United States.[5]
 
@@ -63,11 +64,26 @@ WWF is the world's largest conservation organization with over five million supp
 WWF aims to "stop the degradation of the planet's natural environment and to build a future in which humans live in harmony with nature."[10] The Living Planet Report has been published every two years by WWF since 1998; it is based on a Living Planet Index and ecological footprint calculation.[5] In addition, WWF has launched several notable worldwide campaigns including Earth Hour and Debt-for-Nature Swap, and its current work is organized around these six areas: food, climate, freshwater, wildlife, forests, and oceans.[5][7]
 
 WWF has received criticism for its alleged corporate ties.[11][12] It has also been accused of supporting paramilitary groups tasked with stopping poaching who are responsible for numerous human rights abuses.[13][unreliable source?]
-    </p>
-    <a href="web2.html">Next</a>
+<hr>
+    <h2>Facebook</h2>
+    Facebook is a social communication site foe the people alover the world and it connect the people very easily Facebook, Inc. is an American social media and technology company based in Menlo Park, California. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes, originally as TheFacebook.com—today's Facebook, a popular global social networking website. 
+    <br> is one of the world's most valuable companies. It is considered one of the Big Five technology companies along with Microsoft, Amazon, Apple, and Google.
+
+    Facebook offers other products and services. It acquired Instagram, WhatsApp, and Oculus, and independently developed Facebook Messenger, Facebook Watch, and Facebook Portal.
+
+
+</p>
+
 </body>
 <style>
-  
+  body{background-color:seashell
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  text-decoration: floralwhite;
+  }
+h2{
+    color:blue;
+}
 uL{
     margin: 0;
     padding: 0;
@@ -89,11 +105,13 @@ li a{
     color: ghostwhite;
     
 }
+
 li a:hover{
     color:black;
     background-color:lavender;
     transition: 0.1s;
 }
+
 </style>
     
 </html>
