@@ -19,11 +19,13 @@
             </ul>
         </nav>
     </div>
-</header>
-<div class="get">
+    
+    <div class="get">
 <h1>Hello Get Start</h1>
 <a href="navigation.html">Start</a>
 </div>
+</header>
+
 </body>
 <style>
     .get{
