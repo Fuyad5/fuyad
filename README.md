@@ -54,8 +54,8 @@
         <div>
         </div>
         <div class="w3-container w3-center">
-          <div class="w3-dispaly-middle"><h1>স্বাগতম</h1><p>এইচএসসি পরীক্ষার সকল গাণিতিক সমস্যা নিয়ে আমাদের এই প্লাটফরম </p>
-       <a href="website4.html" class="w3-padding w3-black w3-card-4 w3-hover-aqua" style="text-decoration: none;">Get Start</a></div>
+          <div class="w3-dispaly-middle" id="write"><h1>স্বাগতম</h1><p>এইচএসসি পরীক্ষার সকল গাণিতিক সমস্যা নিয়ে আমাদের এই প্লাটফরম </p>
+       <a href="website4.html" class="w3-padding w3-black w3-card-4 w3-hover-aqua" id="start" style="text-decoration: none;">Start</a></div>
       </div>
         </body>
      <br>
@@ -99,6 +99,15 @@
   h3{
     background-color: azure;
   }
+     #start{
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+  }
+  #write{
+    font-size: large;
+  }
+    
 </style>
 </html>
 
