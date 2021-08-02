@@ -50,7 +50,7 @@
           
         </div>
       </nav>
-      <body style="background-image: url(); background-attachment: fixed; background-size: cover;">
+      <body style="background-image: url(green.jpg); background-attachment: fixed; background-size: cover;">
         <div>
         </div>
         <div class="w3-container w3-center">
