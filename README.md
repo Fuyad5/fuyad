@@ -14,7 +14,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: linear-gradient( to right, #f1c40f,#f39c12,#e67e22);">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="#">HSC 22</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon">F</span>
