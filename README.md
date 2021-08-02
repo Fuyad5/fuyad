@@ -91,7 +91,7 @@
 
       <section class="page3">
         
-             <p><a href="https://www.instagram.com/fuyad15/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+             <p><a href="google4a9ff7b730e3c129.html">GOOGLE VERIFICATION</a>
               </p>
       </section>
 </body>
