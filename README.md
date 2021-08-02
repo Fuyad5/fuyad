@@ -55,7 +55,7 @@
         </div>
         <div class="w3-container w3-center">
           <div class="w3-dispaly-middle" id="write"><h1>স্বাগতম</h1><p>এইচএসসি পরীক্ষার সকল গাণিতিক সমস্যা নিয়ে আমাদের এই প্লাটফরম </p>
-       <a href="google4a9ff7b730e3c129.html" class="w3-padding w3-black w3-card-4 w3-hover-aqua" id="start" style="text-decoration: none;">Start</a></div>
+       <a href="website4.html" class="w3-padding w3-black w3-card-4 w3-hover-aqua" id="start" style="text-decoration: none;">Start</a></div>
       </div>
         </body>
      <br>
