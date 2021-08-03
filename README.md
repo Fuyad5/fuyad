@@ -94,6 +94,7 @@
              <p><a href="google4a9ff7b730e3c129.html">GOOGLE VERIFICATION</a>
               </p>
       </section>
+    <img src=green.jpg"/>
 </body>
 <style>
   h3{
