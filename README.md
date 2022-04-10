@@ -32,7 +32,7 @@
 
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="website4.html">পদার্থবিজ্ঞান</a>
+                <a class="dropdown-item" href="website4.html">পদার্থবিজ্ঞান 1st paper</a>
                 <a class="dropdown-item" href="website4.html">পদার্থবিজ্ঞান ২য়</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="website4.html">রসায়ন ১ম</a>
